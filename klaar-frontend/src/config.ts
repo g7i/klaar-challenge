@@ -1,0 +1,1 @@
+export const BASE_API_URL: string = 'https://vast-shore-74260.herokuapp.com/banks';
